@@ -25,7 +25,7 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 
 @SideEffectFree
-@Tags({"JsonDataDistribute","com.gc"})
+@Tags({"JsonDataDistribute","net.gcc"})
 @CapabilityDescription("Divide data according to configuration")
 public class JsonDataDistributeProcessor extends AbstractProcessor{
 
